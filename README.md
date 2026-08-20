@@ -211,7 +211,7 @@ This layout allows users to move from **hospital-level information → insurance
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/healthcare-dashboard.git
+git clone https://github.com/Amudieshwar-AG/Healthcare-Dashboard.git
 ```
 
 ### 2. Open the Tableau Workbook
