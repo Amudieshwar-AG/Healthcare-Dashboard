@@ -8,7 +8,7 @@ The dashboard transforms healthcare data into an easy-to-understand visual inter
 
 ## 📊 Dashboard Preview
 
-![Healthcare Dashboard](C:\Users\amudi\OneDrive\Pictures\Screenshots)
+![Healthcare Dashboard](./dashboard-preview.png)
 
 ---
 
